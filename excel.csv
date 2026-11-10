@@ -1,4 +1,3 @@
-﻿name,age,marks
-Sourabh,25,85
-Rahul,24,90
-Amit,23,78
+name;age;marks
+Sourabh;25;85
+Rahul;24;90
