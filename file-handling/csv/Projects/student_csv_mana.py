@@ -37,8 +37,7 @@ def display_all():
                     print(row)
         
     except FileNotFoundError:
-         print("File doesn't found")
-                  
+         print("File doesn't found")                 
     
 
 # add_student("Sourabh", 26, 78)
