@@ -6,6 +6,8 @@
 
 # file.close()
 
+# \r\n - (carriage return - \r meaning ) => 
+
 # import os
 
 # print(os.getcwd())

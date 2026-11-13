@@ -1,0 +1,13 @@
+2026-11-11 16:40:33,232 - ERROR - Quantity cannot be zero
+Traceback (most recent call last):
+  File "c:\Users\namde\Desktop\Python\logging_module\file_logging\database_operation.py", line 12, in calculate_price
+    total = price / quantity
+            ~~~~~~^~~~~~~~~~
+ZeroDivisionError: division by zero
+2026-11-11 16:42:13,088 - ERROR - Quantity cannot be zero
+2026-11-11 16:42:48,051 - ERROR - Quantity cannot be zero
+Traceback (most recent call last):
+  File "c:\Users\namde\Desktop\Python\logging_module\file_logging\database_operation.py", line 13, in calculate_price
+    total = price / quantity
+            ~~~~~~^~~~~~~~~~
+ZeroDivisionError: division by zero

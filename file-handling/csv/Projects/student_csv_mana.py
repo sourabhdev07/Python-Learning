@@ -31,8 +31,10 @@ def display_all():
             
             reader = csv.DictReader(file)
             
+            
             for row in reader:
-                print(row)
+                # if row > 25:
+                    print(row)
         
     except FileNotFoundError:
          print("File doesn't found")
